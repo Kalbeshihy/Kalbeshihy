@@ -1,9 +1,46 @@
-- 👋 Hi, I’m @Kalbeshihy
-- 👀 I’m interested in ... Front-End Development
-- 🌱 I’m currently learning ... React.js
-- 📫 How to reach me ... @Kalbeshihy
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fLyd6CqqvNtdu1yCQA/giphy.gif" width="200"/>
+</div>
+<h1 align="center">I’m Khaled Albeshihy</h1>
 
-<!---
-Kalbeshihy/Kalbeshihy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> "Opportunities don't happen. You create them."
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kalbeshihy&style=flat-square&color=blue" alt=""/>
+</div>
+
+***
+
+- 👨‍💻 I’m a **Front-End Developer**
+- 🌱 I’m currently learning ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+- 💬 Ask me about anything, I am happy to help.
+- 📫 Contact me at ... [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:work.kalbeshihy@gmail.com)
+
+***
+
+## Follow me ⏬
+
+<div id="badges">
+  <a href="https://linkedin.com/in/Kalbeshihy/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://Twitter.com/Kalbeshihy/"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://instagram.com/Kalbeshihy/"><img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram Badge"/></a>
+  <a href="https://Facebook.com/Kalbeshihy/"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/></a>
+</div>
+
+***
+
+## Languages & Tools I have used ⏬
+
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=JavaScript&logoColor=323330)
+![React](https://img.shields.io/badge/React-242443?style=for-the-badge&logo=React&logoColor=88dded)
+![jQuery](https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jQuery&logoColor=0769ad)
+![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=GitHub&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=FFE873)
+
+***
+
+
+
