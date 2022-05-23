@@ -10,15 +10,15 @@
 </div>
 
 ***
-
+## :man_technologist: About Me
 - 👨‍💻 I’m a **Front-End Developer**
 - 🌱 I’m currently learning ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 - 💬 Ask me about anything, I am happy to help.
-- 📫 Contact me at ... [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:work.kalbeshihy@gmail.com)
+- 📫 Contact me At :  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:work.kalbeshihy@gmail.com)
 
 ***
 
-## Follow me ⏬
+## 👍 Follow me ⏬
 
 <div id="badges">
   <a href="https://linkedin.com/in/Kalbeshihy/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -29,7 +29,7 @@
 
 ***
 
-## Languages & Tools I have used ⏬
+## :hammer_and_wrench: Languages & Tools ⏬
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -41,6 +41,7 @@
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=FFE873)
 
 ***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalbeshihy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
