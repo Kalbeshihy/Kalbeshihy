@@ -38,6 +38,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jQuery&logoColor=0769ad)
 ![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=GitHub&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=FFE873)
 
 ***
