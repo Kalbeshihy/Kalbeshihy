@@ -12,9 +12,9 @@
 ***
 ## :man_technologist: About Me
 - 👨‍💻 I’m a **Front-End Developer**
-- 🌱 I’m currently learning ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+- 🌱 I’m currently learning ![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=Node.js&logoColor=white)
 - 💬 Ask me about anything, I am happy to help.
-- 📫 Contact me At :  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:work.kalbeshihy@gmail.com)
+- 📫 Contact me At :  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact@khaledalbeshihy.email)
 
 ***
 
@@ -34,8 +34,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=JavaScript&logoColor=323330)
-![React](https://img.shields.io/badge/React-242443?style=for-the-badge&logo=React&logoColor=88dded)
-![jQuery](https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jQuery&logoColor=0769ad)
 ![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=Node.js&logoColor=white)
